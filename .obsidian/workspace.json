@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "ae6c077b74c83652",
+    "type": "split",
+    "children": [
+      {
+        "id": "30ed8608b1a9076d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5653ec401c4788e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2becca46f4a15b1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7b39214d7d8c3af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffb5493832ff5795",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a0381a1b6070d99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#text",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "230bbf4612485c95",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9cb4886930d3c4e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad5ce29f50a055f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad5a5e67abf58526",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "834b2e5c37824c9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c328d6cdc3d06a4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "50d742328b826c37",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "note.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5653ec401c4788e3",
+  "lastOpenFiles": [
+    "links.md",
+    "note.md",
+    "Obsidian.md",
+    "tags.md",
+    "setings.md",
+    "some_note.md",
+    "new file 1.md",
+    "folder/file3.md",
+    "folder/file 4.md"
+  ]
+}
